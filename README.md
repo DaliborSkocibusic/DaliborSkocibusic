@@ -63,7 +63,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliborskocibusic&count_private=true&show_icons=true&locale=en&layout=compact" alt="daliborskocibusic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daliborskocibusic&show_icons=true&locale=en" alt="daliborskocibusic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daliborskocibusic&count_private=true&show_icons=true&locale=en" alt="daliborskocibusic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliborskocibusic&" alt="daliborskocibusic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliborskocibusic&count_private=true&" alt="daliborskocibusic" /></p>
 
