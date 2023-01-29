@@ -1,4 +1,4 @@
-h<h1 align="center">Hi 👋, I'm Dalibor Skocibusic</h1>
+<h1 align="center">Hi 👋, I'm Dalibor Skocibusic</h1>
 
 <h3 align="center">An Electrical / Software Engineer from Adelaide, Australia</h3>
 
@@ -42,16 +42,20 @@ h<h1 align="center">Hi 👋, I'm Dalibor Skocibusic</h1>
 <p align="left">
 
 <h4 align="left">Low Level:</h4>
+<details>
+  <summary>Low Level Summary</summary>
 
----
+  ---
 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    </a>
 
-  <h4 align="left">Web Stuff:</h4>
+    <h4 align="left">Web Stuff:</h4>
 
----
+  ---
+
+</details>
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
