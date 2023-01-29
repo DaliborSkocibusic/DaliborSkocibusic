@@ -11,11 +11,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic" alt="daliborskocibusic" />
   </a>
 </p> -->
-<p align="center">Stuff
+<p align="right">Stuff
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1)](https://github.com//github-profile-trophy)
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1" alt="daliborskocibusic" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1" alt="daliborskocibusic" />
 
 </p>
 
