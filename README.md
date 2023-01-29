@@ -6,7 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic" alt="daliborskocibusic" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic" alt="daliborskocibusic" />
+  </a>
+</p>
 
 -   🔭 I’m currently working on **Software Engineering Degree (UniSA)**
 
@@ -21,6 +25,9 @@
 -   ⚡ Fun fact **I am really good at stuff, sometimes things too.**
 
 <h3 align="left">Connect with me:</h3>
+
+---
+
 <p align="left">
   <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
     <img 
@@ -30,8 +37,11 @@
   <a href="https://www.hackerrank.com/skody001" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="30" width="40" />
   </a>
+
 </p>
-***
+
+---
+
 <p>Thansk to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
 
 <a href="https://daliborskocibusic.github.io/LandingPage/">Online Portfolio - Work in progress</a>
