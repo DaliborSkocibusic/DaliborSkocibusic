@@ -39,7 +39,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- <-- <p align="left"> --> -->
+<!-- <-- <p align="left"> -->
 
 <!-- <h4 align="left">Low Level:</h4> -->
 <details>
@@ -54,6 +54,12 @@
 ---
 
 </details>
+
+<details>
+<summary>Web Stuff</summary>
+
+---
+
   <h4 align="left">Web Stuff:</h4>
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -77,6 +83,10 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
+
+---
+
+</details>
 
 <h4 align="left">Programming langauges:</h4>
 
