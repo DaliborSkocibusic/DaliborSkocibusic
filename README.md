@@ -15,7 +15,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1)](https://github.com//github-profile-trophy)
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1" alt="daliborskocibusic" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1" alt="daliborskocibusic" />
 
 </p>
 
