@@ -6,11 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic" alt="daliborskocibusic" />
   </a>
-</p>
+</p> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark)](https://github.com//github-profile-trophy)
 
