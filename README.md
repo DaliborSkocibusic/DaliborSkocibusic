@@ -23,6 +23,10 @@
 <a href="https://www.hackerrank.com/skody001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="30" width="40" /></a>
 </p>
 
+<p>Thansk to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
+
+<a href="https://daliborskocibusic.github.io/LandingPage/"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
