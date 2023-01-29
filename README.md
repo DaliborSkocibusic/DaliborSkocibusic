@@ -97,6 +97,8 @@
 </details>
 
 <details>
+<summary>Programming Languages:</summary>
+
 <h4 align="left">Programming langauges:</h4>
 
 ---
@@ -130,6 +132,7 @@
 </details>
 
 <details>
+<summary>Deployment Tools</summary>
 
 ---
 
@@ -147,6 +150,7 @@
   </details>
 
   <details>
+  <summary>Cloud Platforms</summary>
 
 ---
 
@@ -164,6 +168,7 @@
   </details>
 
 <details>
+<summary>Version Control</summary>
 
 ---
 
@@ -178,6 +183,7 @@
   </details>
 
   <details>
+  <summary>Testing</summary>
 
 ---
 
@@ -186,6 +192,8 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
+  <p>Pytest</p>
+  <p>J Unit Test</p>
 
 ---
 
@@ -201,6 +209,10 @@
 
   <details>
 
+  <summary>Databases</summary>
+
+---
+
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
@@ -212,6 +224,8 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
+
+---
 
   </details>
   
@@ -241,11 +255,14 @@
 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a> 
-
+  </a>
 
   <details>
+
+  <summary>Game Engine</summary>
+
 ## <h3 align="left">Game Engine:</h3>
+
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
