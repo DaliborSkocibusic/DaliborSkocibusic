@@ -38,10 +38,10 @@
 
 ---
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> -->
+<h3 align="left">Languages and Tools:</h3>
+<!-- <-- <p align="left"> --> -->
 
-<h4 align="left">Low Level:</h4>
+<!-- <h4 align="left">Low Level:</h4> -->
 <details>
   <summary>Low Level</summary>
 
