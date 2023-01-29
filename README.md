@@ -25,7 +25,7 @@
 
 <p>Thansk to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
 
-<a href="https://daliborskocibusic.github.io/LandingPage/"></a>
+<a href="https://daliborskocibusic.github.io/LandingPage/">Online Portfolio - Work in progress</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
