@@ -12,7 +12,7 @@
   </a>
 </p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&column=-1)](https://github.com//github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&column=1)](https://github.com//github-profile-trophy)
 
 Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
