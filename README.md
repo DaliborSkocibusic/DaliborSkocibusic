@@ -38,24 +38,23 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> -->
 
 <h4 align="left">Low Level:</h4>
 <details>
-  <summary>Low Level Summary</summary>
+  <summary>Low Level</summary>
 
 ---
 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-
-  <h4 align="left">Web Stuff:</h4>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+</a>
 
 ---
 
 </details>
+  <h4 align="left">Web Stuff:</h4>
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
