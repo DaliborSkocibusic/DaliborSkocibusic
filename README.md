@@ -2,7 +2,7 @@
 
 <h3 align="center">An Electrical / Software Engineer from Adelaide, Australia</h3>
 
-<p align="left">
+<!-- <p align="left"> -->
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
 </p>
 
