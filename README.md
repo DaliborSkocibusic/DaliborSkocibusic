@@ -12,7 +12,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark)]]
 
 -   🔭 I’m currently working on **Software Engineering Degree (UniSA)**
 
