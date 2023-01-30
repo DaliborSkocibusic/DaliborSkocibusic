@@ -64,13 +64,13 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <details>
   <summary>Low Level</summary>
 
-  ---
+---
 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+</a>
 
-  ---
+---
 
 </details>
 
@@ -107,6 +107,18 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   </a>
 
 ---
@@ -209,7 +221,10 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 ---
 
   </details>
-  
+  <details>
+
+    <summary>Operating Systems</summary>
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
@@ -217,6 +232,8 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
+
+  </details>
 
   <details>
 
@@ -239,21 +256,13 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 ---
 
   </details>
-  
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  
+
+  <details>
+
+  <summary>Artificial Intelligence</summary>
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -267,6 +276,8 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+
+  </details>
 
   <details>
 
