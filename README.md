@@ -223,7 +223,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   </details>
   <details>
 
-    <summary>Operating Systems</summary>
+  <summary>Operating Systems</summary>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
