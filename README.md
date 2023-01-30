@@ -292,6 +292,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
+</hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliborskocibusic&count_private=true&include_all_commits=true&langs_count=10&theme=radical&show_icons=true&locale=en&layout=compact" alt="daliborskocibusic" />
 </p>
