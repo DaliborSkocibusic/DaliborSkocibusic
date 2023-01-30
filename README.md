@@ -13,7 +13,7 @@
 </p> -->
 <!-- <p align="right">Stuff -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1)](https://github.com//github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1)](https://github.com//github-profile-trophy) -->
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=20&margin-h=20&row=1" alt="daliborskocibusic" />
 
@@ -64,13 +64,13 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <details>
   <summary>Low Level</summary>
 
----
+  ---
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
 
----
+  ---
 
 </details>
 
@@ -78,8 +78,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <summary>Web Stuff</summary>
 
 ---
-
-  <h4 align="left">Web Stuff:</h4>
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -118,8 +116,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <details>
 <summary>Programming Languages:</summary>
 
-<h4 align="left">Programming langauges:</h4>
-
 ---
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -155,7 +151,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-  <h3 align="left">Deployment Tools:</h3>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -173,7 +168,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-  <h3 align="left">Cloud Platforms:</h3>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
@@ -191,7 +185,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-## <h3 align="left">Version Control:</h3>
+<!-- ## <h3 align="left">Version Control:</h3> -->
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -205,8 +199,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <summary>Testing</summary>
 
 ---
-
-## <h3 align="left">Testing:</h3>
 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
@@ -279,8 +271,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <details>
 
   <summary>Game Engine</summary>
-
-## <h3 align="left">Game Engine:</h3>
 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
