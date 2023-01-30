@@ -47,11 +47,15 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="30" width="40" />
   </a>
 
+  <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank">
+    <img align="center" src="https://www.codewars.com/users/DaliborSkocibusic/badges/large" alt="skody001" height="30" width="40" />
+  </a>
+
 </p>
 
 ---
 
-<p>Thansk to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
+<p>Thanks to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
 
 <a href="https://daliborskocibusic.github.io/LandingPage/">Online Portfolio - Work in progress</a>
 
