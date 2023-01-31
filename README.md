@@ -323,3 +323,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                            <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=daliborskocibusic&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="daliborskocibusic" />                            |
 |                                       <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=daliborskocibusic&include_all_commits=true&count_private=true&" alt="daliborskocibusic" />                                       |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
