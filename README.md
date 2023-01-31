@@ -4,7 +4,6 @@
 
 <!-- <p align="left"> -->
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
-</p>
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -17,19 +16,15 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=20&margin-h=20&row=1" alt="daliborskocibusic" />
 
-<!-- </p> -->
-
 Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 -   🔭 I’m currently working on **Software Engineering Degree (UniSA)**
-
 -   🌱 I’m currently learning **c, c++, R, and many others**
-
 -   👯 I’m looking to collaborate on **gaming projects**
 
 -   💬 Ask me about **Stuff**
 
--   📄 Know about my experiences [stuff](stuff)
+-   📄 Know about my experiences [stuff](www.google.com)
 
 -   ⚡ Fun fact **I am really good at stuff, sometimes things too.**
 
@@ -37,21 +32,30 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
-    <img 
-    align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="www.linkedin.com/in/dalibor-skocibusic" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/skody001" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="30" width="40" />
-  </a>
+<table>
+  <tr>
 
-  <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank">
-    <img align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="skody001" height="30" width="40" />
-  </a>
+  <td width="500">
+    <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="www.linkedin.com/in/dalibor-skocibusic" height="50vw"/>
+    </a>
+  </td>
 
-</p>
+  <td width="500">
+    <a href="https://www.hackerrank.com/skody001" target="blank" width="500">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="60"/>
+    </a>
+  </td>
+
+  <td width="500">
+    <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank" width="500">
+      <img align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="skody001" height="50"/>
+    </a>
+  </td>
+
+  </tr>
+</table>
 
 ---
 
@@ -83,15 +87,35 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
+  <table>
+  <th>Language</th>
+  <th>Project</th>
+  <tr>
 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a></td>
+
+  <td><a href="https://github.com/DaliborSkocibusic/DiveBarWebDesign">Dive Bar Web Design</td>
+  <td><a href="https://github.com/DaliborSkocibusic/ci-cd-test">CI / CD Test</td>
+  </tr>
+
+  <tr>
+  <td><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a></td>
+  <td><a href="https://github.com/DaliborSkocibusic/_nologyn">_nology course prep work</td>
+  <td><a href="https://github.com/DaliborSkocibusic/ci-cd-test">CI / CD Test</td>
+  </tr>
+
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
+  </td>
+
+
+
+
+  </table>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -126,6 +150,8 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   </a>
 
 ---
+
+</tr>
 
 </details>
 
@@ -179,15 +205,14 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
   </details>
 
-  <details>
-  <summary>Cloud Platforms</summary>
+<details>
+<summary>Cloud Platforms</summary>
 
 ---
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
@@ -196,12 +221,9 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
   </details>
 
-<details>
-<summary>Version Control</summary>
+<details><summary>Version Control</summary>
 
 ---
-
-<!-- ## <h3 align="left">Version Control:</h3> -->
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -219,6 +241,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
+
   <p>Pytest</p>
   <p>J Unit Test</p>
 
@@ -296,21 +319,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliborskocibusic&count_private=true&include_all_commits=true&langs_count=10&theme=radical&show_icons=true&locale=en&layout=compact" alt="daliborskocibusic" />
-</p>
-
----
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daliborskocibusic&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="daliborskocibusic" />
-</p>
-
----
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliborskocibusic&include_all_commits=true&count_private=true&" alt="daliborskocibusic" />
-</p>
-
----
+| <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=daliborskocibusic&count_private=true&include_all_commits=true&langs_count=10&theme=radical&show_icons=true&locale=en&layout=compact" alt="daliborskocibusic" /> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                            <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=daliborskocibusic&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="daliborskocibusic" />                            |
+|                                       <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=daliborskocibusic&include_all_commits=true&count_private=true&" alt="daliborskocibusic" />                                       |
