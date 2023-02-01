@@ -31,18 +31,18 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 <table>
   <tr>
-  <div>
+  <div align="center>
     <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
       <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="www.linkedin.com/in/dalibor-skocibusic" height="50"/>
     </a>
   </div>
-  <div>
+  <div align="center>
     <a href="https://www.hackerrank.com/skody001" target="blank">
       <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="60"/>
     </a>
   </div>
-  <div>
+  <div align="center>
     <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank">
       <img style="max-width: 33%" align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="skody001" height="50"/>
     </a>
