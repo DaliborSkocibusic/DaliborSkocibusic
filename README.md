@@ -88,21 +88,19 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a></td>
 
-  <td><a href="https://github.com/DaliborSkocibusic/DiveBarWebDesign">Dive Bar Web Design</td>
-  <td><a href="https://github.com/DaliborSkocibusic/ci-cd-test">CI / CD Test</td>
-  </tr>
+  <!-- <td><a href="https://github.com/DaliborSkocibusic/DiveBarWebDesign">Dive Bar Web Design</td>
+  <td><a href="https://github.com/DaliborSkocibusic/ci-cd-test">CI / CD Test</td> -->
 
-  <tr>
-  <td><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a></td>
-  <td><a href="https://github.com/DaliborSkocibusic/_nologyn">_nology course prep work</td>
+<<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a></td>
+
+  <!-- <td><a href="https://github.com/DaliborSkocibusic/_nologyn">_nology course prep work</td>
   <td><a href="https://github.com/DaliborSkocibusic/ci-cd-test">CI / CD Test</td>
-  </tr>
+  </tr> -->
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
-  </td>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
