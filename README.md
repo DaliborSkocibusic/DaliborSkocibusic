@@ -91,7 +91,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <!-- <td><a href="https://github.com/DaliborSkocibusic/DiveBarWebDesign">Dive Bar Web Design</td>
   <td><a href="https://github.com/DaliborSkocibusic/ci-cd-test">CI / CD Test</td> -->
 
-<<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a></td>
 
   <!-- <td><a href="https://github.com/DaliborSkocibusic/_nologyn">_nology course prep work</td>
