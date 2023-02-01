@@ -34,7 +34,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <div>
     <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
       <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="www.linkedin.com/in/dalibor-skocibusic" height="50vw"/>
+      alt="www.linkedin.com/in/dalibor-skocibusic" height="50"/>
     </a>
   </div>
   <div>
