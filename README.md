@@ -62,7 +62,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <!-- <-- <p align="left"> -->
 
 <!-- <h4 align="left">Low Level:</h4> -->
-  <summary>Low Level</summary>
+  <h3>Low Level</h3>
   <h4>Click each icon to see each project with the tech</h4>
 
 ---
