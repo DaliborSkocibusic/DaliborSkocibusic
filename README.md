@@ -21,11 +21,8 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 -   🔭 I’m currently working on **Software Engineering Degree (UniSA)**
 -   🌱 I’m currently learning **c, c++, R, and many others**
 -   👯 I’m looking to collaborate on **gaming projects**
-
 -   💬 Ask me about **Stuff**
-
 -   📄 Know about my experiences [stuff](www.google.com)
-
 -   ⚡ Fun fact **I am really good at stuff, sometimes things too.**
 
 <h3 align="left">Connect with me:</h3>
@@ -87,11 +84,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-  <table>
-  <th>Language</th>
-  <th>Project</th>
-  <tr>
-
   <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a></td>
@@ -111,11 +103,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
   </td>
-
-
-
-
-  </table>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
