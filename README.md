@@ -80,7 +80,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 </details>
 
 <details>
-<summary>Web Stuff</summary>
+<summary>Web Stuff - Click to see what I built with it</summary>
 
 ---
 
