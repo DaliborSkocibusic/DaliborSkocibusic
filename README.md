@@ -43,7 +43,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
     </a>
   </div>
   <div>
-    <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank" width="500">
+    <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank">
       <img style="max-width: 33%" align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="skody001" height="50"/>
     </a>
   </div>
