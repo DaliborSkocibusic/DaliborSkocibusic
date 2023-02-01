@@ -68,6 +68,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <!-- <h4 align="left">Low Level:</h4> -->
 <details>
   <summary>Low Level</summary>
+  <h2>Click each icon to see each project with the tech</h2>
 
 ---
 
@@ -80,8 +81,8 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 </details>
 
 <details>
-<summary>Web Stuff - Click to see what I built with it</summary>
-
+<summary>Web Stuff</summary>
+<h2>Click each icon to see each project with the tech</h2>
 ---
 
   <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
