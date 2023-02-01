@@ -63,11 +63,10 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 <!-- <h4 align="left">Low Level:</h4> -->
   <h3>Low Level</h3>
-  <h4>Click each icon to see each project with the tech</h4>
 
 ---
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 
