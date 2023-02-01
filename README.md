@@ -31,26 +31,22 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 <table>
   <tr>
-
   <td width="500">
     <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="www.linkedin.com/in/dalibor-skocibusic" height="50vw"/>
     </a>
   </td>
-
   <td width="500">
     <a href="https://www.hackerrank.com/skody001" target="blank" width="500">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="60"/>
     </a>
   </td>
-
   <td width="500">
     <a href="https://www.codewars.com/users/DaliborSkocibusic" target="blank" width="500">
       <img align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="skody001" height="50"/>
     </a>
   </td>
-
   </tr>
 </table>
 
@@ -66,7 +62,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 <!-- <-- <p align="left"> -->
 
 <!-- <h4 align="left">Low Level:</h4> -->
-<details>
   <summary>Low Level</summary>
   <h4>Click each icon to see each project with the tech</h4>
 
@@ -77,8 +72,6 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 </a>
 
 ---
-
-</details>
 
 <details>
 <summary>Web Stuff</summary>
@@ -214,20 +207,14 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
   </details>
 
-  <details>
-  <summary>Testing</summary>
-
+<details><summary>Testing</summary>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</a>
+<p>Pytest</p>
+<p>J Unit Test</p>
 ---
-
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <p>Pytest</p>
-  <p>J Unit Test</p>
-
----
-
-  </details>
+</details>
 
 <details><summary>Operating Systems</summary>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
