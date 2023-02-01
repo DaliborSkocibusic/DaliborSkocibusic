@@ -38,7 +38,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
     </a>
   </div>
   <div>
-    <a href="https://www.hackerrank.com/skody001" target="blank" width="500">
+    <a href="https://www.hackerrank.com/skody001" target="blank">
       <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="60"/>
     </a>
   </div>
