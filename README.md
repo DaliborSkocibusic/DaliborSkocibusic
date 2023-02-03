@@ -24,7 +24,9 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 -   💬 Ask me about **Stuff**
 -   📄 Know about my experiences [stuff](www.google.com)
 -   ⚡ Fun fact **I am really good at stuff, sometimes things too.**
-<!-- git add .; git commit -m "Minor formatting"; git push; -->
+    <!-- git add .; git commit -m "Minor formatting"; git push; -->
+    <!-- git add .; git commit -m "Minor formatting"; git push; -->
+
 <h3 align="left">Connect with me:</h3>
 
 ---
