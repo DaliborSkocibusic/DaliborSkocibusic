@@ -272,11 +272,11 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ***
 
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">Landing Page
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 
-<a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">Stick Picker
+<a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 </details>
