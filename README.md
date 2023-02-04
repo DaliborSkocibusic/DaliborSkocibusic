@@ -272,7 +272,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ***
 
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">Landing
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 
