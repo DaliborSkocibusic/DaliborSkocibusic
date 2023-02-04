@@ -273,7 +273,18 @@ Credit BEPb
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic"></img>
 
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
+<!--   grid-snake -->
+![](https://github.com/DaliborSkocibusic/DaliborSkocibusic/blob/output/github-contribution-grid-snake.svg)
+
+<!--   skyline 
+<a href="https://skyline.github.com/DaliborSkocibusic/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 ***
 
 ---
