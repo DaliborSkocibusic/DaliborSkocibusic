@@ -31,6 +31,11 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
+
 <table>
   <tr>
   <div align="center>
