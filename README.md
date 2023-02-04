@@ -261,6 +261,21 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 </a>
 </details>
 
+
+***
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![DaliborSkocibusic's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaliborSkocibusic&theme=github-compact)](https://github.com/DaliborSkocibusic/github-readme-activity-graph)
+Credit BEPb
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![DaliborSkocibusic's github stats](https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&show_icons=true&theme=radical&include_all_commits=true) | ![DaliborS's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic"></img>
+
+
+***
+
 ---
 
 | <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=daliborskocibusic&count_private=true&include_all_commits=true&langs_count=10&theme=radical&show_icons=true&locale=en&layout=compact" alt="daliborskocibusic" /> |
