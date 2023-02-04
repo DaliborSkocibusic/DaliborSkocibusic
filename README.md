@@ -269,7 +269,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 Credit BEPb
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![DaliborSkocibusic's github stats](https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&show_icons=true&theme=radical&include_all_commits=true) | ![DaliborS's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![DaliborSkocibusic's github stats](https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&show_icons=true&theme=radical&include_all_commits=true) | ![DaliborS's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliborSkocibusic&theme=radical&layout=compact) |
 
 Works
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic"></img>
