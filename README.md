@@ -271,18 +271,11 @@ Credit BEPb
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![DaliborSkocibusic's github stats](https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&show_icons=true&theme=radical&include_all_commits=true) | ![DaliborS's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliborSkocibusic&theme=radical&layout=compact) |
 
-Works
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic"></img>
-Works
 
-<!--   grid-snake -->
-![](https://github.com/DaliborSkocibusic/DaliborSkocibusic/blob/output/github-contribution-grid-snake.svg)
-Doesnt Work
 
-Doesnt Work                                                                                
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DaliborSkocibusic&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
-Doesnt Work
+
 ***
 
 ---
