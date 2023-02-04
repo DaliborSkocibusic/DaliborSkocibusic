@@ -273,13 +273,17 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 ***
 <table>
 <row>
+<td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">Landing
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
+</td>                                                                                                 
 
+<td>                                                                                                
 <a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">Stock Picker
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
+</td>                                                                                                 
 </details>
 </row>
 </table>          
