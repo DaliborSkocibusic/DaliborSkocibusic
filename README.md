@@ -33,7 +33,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 <picture>
   <source media="(prefers-color-scheme: dark)" height="50" srcset="https://picsum.photos/200/300">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://picsum.photos/500/500">
 </picture>
 
 <table>
