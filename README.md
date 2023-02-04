@@ -280,9 +280,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 </details>
-                                                                                                 </span>
-***
-
+</span>          
 
 ***
 <!--   GitHub stats graph -->
