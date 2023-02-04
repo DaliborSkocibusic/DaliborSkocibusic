@@ -270,7 +270,7 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 <details><summary>Repos</summary>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="[[https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)](https://foundations.projectpythia.org/_images/GitHub-logo.png)" alt="Reop" width="40" height="40"/>
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" width="40" height="40"/>
 </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
