@@ -308,11 +308,17 @@
 <td>2022-SP5-WT - Private</td>
 <td>Tutorials</td>
 
+</tr>
+<tr>
+
 <td>GoogleFooBar - Private</td>
 <td>2022-SP5-DSA - Private</td>
 <td>git-practice-repo</td>
 <td>_nology-React-E-Shop</td>
 <td>Wordle</td>
+
+</tr>
+<tr>
 
 <td>ci-cd-test</td>
 <td>_nology - Private</td>
@@ -320,11 +326,17 @@
 <td>Google-Books-UI</td>
 <td>2022-SP2-DSE - Private</td>
 
+</tr>
+<tr>
+
 <td>morse_code</td>
 <td>_nology_calc</td>
 <td>MVP-Dalibor-Skocibusic</td>
 <td>2022-SP2-SDR - Private</td>
 <td>my-test-repo</td>
+
+</tr>
+<tr>
 
 <td>2022-SP2-SDS - Private</td>
 <td>Algo-Trading - Private</td>
@@ -332,11 +344,17 @@
 <td>OOP-Practicals - Private</td>
 <td>DDWT-Assignment2 - Private</td>
 
+</tr>
+<tr>
+
 <td>DDWTPractical - Private</td>
 <td>PSP - Private</td>
 <td>IT-Fundamentals - Private</td>
 <td>PSP-Assignment--Visual-Studio - Private</td>
 <td>Uni-Assigments - Private</td>
+
+</tr>
+<tr>
 
 <td>github-slideshow</td>
 
@@ -374,7 +392,6 @@
 </td>
 
 </tr>
-
 <tr>
 
 <td>
@@ -407,11 +424,8 @@
 </a>
 </td>
 
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
+</tr>
+<tr>
 
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
@@ -443,11 +457,8 @@
 </a>
 </td>
 
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
+</tr>
+<tr>
 
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
@@ -479,11 +490,8 @@
 </a>
 </td>
 
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
+</tr>
+<tr>
 
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
@@ -515,6 +523,9 @@
 </a>
 </td>
 
+</tr>
+<tr>
+
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
@@ -526,6 +537,27 @@
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 </td>
+
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+
+</tr>
+<tr>
 
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
