@@ -313,7 +313,9 @@
 </tr>
 <tr width="10000">
 <td>C</td>
-[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage)
+<td>
+<img src="https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg">
+</td>
 <td>adsf</td>
 [![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT)
 <td >
