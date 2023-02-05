@@ -5,9 +5,7 @@
 <center>
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
 
-[![wakatime](https://wakatime.com/badge/user/cee95ec9-130e-4f66-8097-0123d00e7dfd.svg)](https://wakatime.com/@cee95ec9-130e-4f66-8097-0123d00e7dfd)
-
-[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/DaliborSkocibusic.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/DaliborSkocibusic)
+[![wakatime](https://wakatime.com/badge/user/cee95ec9-130e-4f66-8097-0123d00e7dfd.svg)](https://wakatime.com/@DaliborSkocibusic)
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=20&margin-h=20&row=1" alt="daliborskocibusic" />
 </center>
@@ -320,9 +318,7 @@
 </td>
 <td>adsf</td>
 <td>
-<a href ="https://wakatime.com/projects/landingpage" target="_blank" rel="noreferrer">
-  <img src="https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg">
-</a>
+<a href="https://wakatime.com/badge/github/DaliborSkocibusic/DaliborSkocibusic"><img src="https://wakatime.com/badge/github/DaliborSkocibusic/DaliborSkocibusic.svg" alt="wakatime"></a>
 <span>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="10" height="10"/> 
