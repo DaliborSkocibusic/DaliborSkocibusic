@@ -313,9 +313,9 @@
 </tr>
 <tr width="10000">
 <td>C</td>
-<td>[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage)</td>
+[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage)
 <td>adsf</td>
-<td>[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT)</td>
+[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT)
 <td >
 <span>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
