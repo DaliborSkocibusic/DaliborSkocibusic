@@ -308,6 +308,13 @@
 <td>Tutorials</td>
 </tr>
 <tr>
+<td>C</td>
+<td>C++</td>
+<td>adsf</td>
+<td>e4we</td>
+<td>ef</td>
+</tr>
+<tr>
 <td>                                                                                                
 <a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
