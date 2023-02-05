@@ -5,6 +5,10 @@
 <center>
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
 
+[![wakatime](https://wakatime.com/badge/user/cee95ec9-130e-4f66-8097-0123d00e7dfd.svg)](https://wakatime.com/@cee95ec9-130e-4f66-8097-0123d00e7dfd)
+
+[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/DaliborSkocibusic.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/DaliborSkocibusic)
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=20&margin-h=20&row=1" alt="daliborskocibusic" />
 </center>
 <hr>
@@ -309,9 +313,9 @@
 </tr>
 <tr width="10000">
 <td>C</td>
-<td>C++</td>
+<td>[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage)</td>
 <td>adsf</td>
-<td>e4we</td>
+<td>[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT)</td>
 <td >
 <span>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -332,6 +336,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="10" height="10"/>
   </a>
+  
 </span>
 </td>
 
