@@ -335,6 +335,7 @@
 </a>
 </td>
 </tr>
+<hr>
 
 <tr>
 <td>GoogleFooBar - Private</td>
@@ -369,6 +370,7 @@
 </a>
 </td>
 </tr>
+<hr>
 
 <tr>
 <td>ci-cd-test</td>
