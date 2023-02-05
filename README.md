@@ -335,8 +335,10 @@
 </a>
 </td>
 </tr>
+</table>
 <hr>
 
+<table>
 <tr>
 <td>GoogleFooBar - Private</td>
 <td>2022-SP5-DSA - Private</td>
@@ -369,7 +371,8 @@
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 </td>
-</tr>
+</table>
+</table>
 <hr>
 
 <tr>
