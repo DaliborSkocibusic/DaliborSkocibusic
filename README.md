@@ -314,11 +314,15 @@
 <tr width="10000">
 <td>C</td>
 <td>
-<img src="https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg">
+<a href ="https://wakatime.com/projects/landingpage" target="_blank" rel="noreferrer">
+  <img src="https://wakatime.com/badge/github/DaliborSkocibusic/LandingPage.svg">
+</a>
 </td>
 <td>adsf</td>
-[![wakatime](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg)](https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT)
-<td >
+<td>
+<a href ="https://wakatime.com/projects/landingpage" target="_blank" rel="noreferrer">
+  <img src="https://wakatime.com/badge/github/DaliborSkocibusic/2022-SP5-WT.svg">
+</a>
 <span>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="10" height="10"/> 
