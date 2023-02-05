@@ -307,7 +307,7 @@
 <td>2022-SP5-WT - Private</td>
 <td>Tutorials</td>
 </tr>
-<tr width="5000">
+<tr width="10000">
 <td>C</td>
 <td>C++</td>
 <td>adsf</td>
