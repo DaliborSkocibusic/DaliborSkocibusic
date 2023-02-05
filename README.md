@@ -2,21 +2,12 @@
 
 <h3 align="center">An Electrical / Software Engineer from Adelaide, Australia</h3>
 
-<!-- <p align="left"> -->
+<center>
 <img src="https://komarev.com/ghpvc/?username=daliborskocibusic&label=Profile%20views&color=0e75b6&style=flat" alt="daliborskocibusic" />
 
-<!-- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic" alt="daliborskocibusic" />
-  </a>
-</p> -->
-<!-- <p align="right">Stuff -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=15&margin-h=15&row=1)](https://github.com//github-profile-trophy) -->
-
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=20&margin-h=20&row=1" alt="daliborskocibusic" />
-
-Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
+</center>
+<hr>
 
 -   🔭 I’m currently working on **Software Engineering Degree (UniSA)**
 -   🌱 I’m currently learning **c, c++, R, and many others**
@@ -31,19 +22,59 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" height="50" srcset="https://picsum.photos/200/300">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://picsum.photos/500/500">
-</picture>
+<center>
 
+<!-- | Tables   |          Are           |  Cool |
+| -------- | :--------------------: | ----: |
+| col 1 is | left-aligned adfdasfsd | $1600 |
+| col 2 is |        centered        |   $12 |
+| col 3 is |     right-aligned      |    $1 | -->
 <table>
   <tr>
-  <div align="center>
+  <td>LinkedIn</td>
+  <td>LinkedIn</td>
+  <td>LinkedIn</td>
+  </tr>
+  
+  <tr>
+  <td width="150">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="50"
+      srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+    </picture>
+  </td>
+
+  <td width="150">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="70"
+      srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
+    </picture>
+    </td>
+
+  <td width="150">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="60"
+      srcset="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png">
+    </picture>
+    </td>
+
+  </tr>
+</table>
+
+</center>
+
+<!-- <table>
+  <tr>
     <a href="https://linkedin.com/in/dalibor-skocibusic" target="blank">
-      <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="www.linkedin.com/in/dalibor-skocibusic" height="50"/>
     </a>
-  </div>
   <div align="center>
     <a href="https://www.hackerrank.com/skody001" target="blank">
       <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skody001" height="60"/>
@@ -55,11 +86,9 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
     </a>
   </div>
   </tr>
-</table>
+</table> -->
 
 ---
-
-<p>Thanks to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
 
 <a href="https://daliborskocibusic.github.io/LandingPage/">Online Portfolio - Work in progress</a>
 
@@ -266,50 +295,69 @@ Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
 </a>
 </details>
 
-***
+---
 
 <details><summary>Repos</summary>
 
-***
+---
+
 <table>
 <row>
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">Landing
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
-</td>                                                                                                 
+</td>
 
 <td>                                                                                                
 <a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">Stock Picker
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
 </a>
 </td>                                                                                                 
-</details>
 </row>
-</table>          
-
-***
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![DaliborSkocibusic's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaliborSkocibusic&theme=github-compact)](https://github.com/DaliborSkocibusic/github-readme-activity-graph)
-Credit BEPb
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![DaliborSkocibusic's github stats](https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&show_icons=true&theme=radical&include_all_commits=true) | ![DaliborS's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliborSkocibusic&theme=radical&layout=compact) |
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic"></img>
-
-
-
-***
+</table>
+</details>
 
 ---
 
-| <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=DaliborSkocibusic&count_private=true&include_all_commits=true&langs_count=10&theme=radical&show_icons=true&locale=en&layout=compact" alt="DaliborSkocibusic" /> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                            <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="DaliborSkocibusic" />                            |
-|                                       <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic&include_all_commits=true&count_private=true&" alt="DaliborSkocibusic" />                                       |
+### 📈 GitHub Activity Graph:
+
+[![DaliborSkocibusic's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaliborSkocibusic&theme=github-compact)](https://github.com/DaliborSkocibusic/github-readme-activity-graph)
+
+---
+
+<center>
+
+|                                                                                                                                                                                                                                                   |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=DaliborSkocibusic&count_private=true&include_all_commits=true&langs_count=10&theme=radical&show_icons=true&locale=en&layout=compact" alt="DaliborSkocibusic" /> |
+|                            <img width=500 src="https://github-readme-stats.vercel.app/api?username=DaliborSkocibusic&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="DaliborSkocibusic" />                            |
+|                                       <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborSkocibusic&include_all_commits=true&count_private=true" alt="DaliborSkocibusic" />                                        |
+
+</center>
+
+<!-- Source
+https://stackoverflow.com/questions/24127507/is-it-possible-to-center-tables-in-a-markdown-file -->
+
+<!-- <center>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</center> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+Credit for stuff here
+Github Activity graph
+Credit BEPb
+
+Template for this
+
+<p>Thanks to src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</p>
+
+Trophy data taken from https://github.com/ryo-ma/github-profile-trophy
