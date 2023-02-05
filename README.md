@@ -300,26 +300,77 @@
 ---
 
 <table>
-<tr>
 
+<tr>
 <td>Stock Picker - Private</td>
 <td>Landing Page - Private</td>
 <td>2022-SP5-WT-SAExpiations - Private</td>
 <td>2022-SP5-WT - Private</td>
 <td>Tutorials</td>
-
 </tr>
 <tr>
+<td>                                                                                                
+<a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+</tr>
 
+<tr>
 <td>GoogleFooBar - Private</td>
 <td>2022-SP5-DSA - Private</td>
 <td>git-practice-repo</td>
 <td>_nology-React-E-Shop</td>
 <td>Wordle</td>
-
 </tr>
-<tr>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
+</a>
+</td>
+</tr>
 
+<tr>
 <td>ci-cd-test</td>
 <td>_nology - Private</td>
 <td>DiveBarWebDesign - Private</td>
@@ -359,72 +410,9 @@
 <td>github-slideshow</td>
 
 </tr>
+
 <tr>
 
-<td>                                                                                                
-<a href="https://github.com/DaliborSkocibusic/stock-picker" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-</tr>
-<tr>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
-  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
-</a>
-</td>
-
-</tr>
 <tr>
 
 <td>
