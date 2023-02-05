@@ -307,12 +307,12 @@
 <td>2022-SP5-WT - Private</td>
 <td>Tutorials</td>
 </tr>
-<tr>
+<tr width="5000">
 <td>C</td>
 <td>C++</td>
 <td>adsf</td>
 <td>e4we</td>
-<td width="500">
+<td >
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
