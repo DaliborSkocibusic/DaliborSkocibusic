@@ -373,6 +373,8 @@
 </a>
 </td>
 
+<hr>
+
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="Reop" height="40"/>
