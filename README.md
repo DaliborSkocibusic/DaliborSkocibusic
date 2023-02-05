@@ -373,7 +373,7 @@
 </a>
 </td>
 
-<hr>
+<br>
 
 <td>
 <a href="https://github.com/DaliborSkocibusic/LandingPage" target="_blank" rel="noreferrer">
