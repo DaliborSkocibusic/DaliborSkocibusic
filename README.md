@@ -31,13 +31,13 @@
 | col 3 is |     right-aligned      |    $1 | -->
 <table>
   <tr>
-  <td>LinkedIn</td>
-  <td>LinkedIn</td>
-  <td>LinkedIn</td>
+  <td align="center">LinkedIn</td>
+  <td align="center">LinkedIn</td>
+  <td align="center">LinkedIn</td>
   </tr>
   
   <tr>
-  <td width="150">
+  <td align="center" width="150">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="50"
       srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
@@ -46,7 +46,7 @@
     </picture>
   </td>
 
-  <td width="150">
+  <td align="center" width="150">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="70"
       srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
@@ -55,7 +55,7 @@
     </picture>
     </td>
 
-  <td width="150">
+  <td align="center" width="150">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="60"
       srcset="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png">
