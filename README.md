@@ -18,11 +18,11 @@
     <!-- git add .; git commit -m "Minor formatting"; git push; -->
     <!-- git add .; git commit -m "Minor formatting"; git push; -->
 
-<h3 align="left">Connect with me:</h3>
+<center>
+
+<h3>Connect with me:</h3>
 
 ---
-
-<center>
 
 <!-- | Tables   |          Are           |  Cool |
 | -------- | :--------------------: | ----: |
@@ -35,7 +35,6 @@
   <td align="center">LinkedIn</td>
   <td align="center">LinkedIn</td>
   </tr>
-  
   <tr>
   <td align="center" width="150">
     <picture>
@@ -45,7 +44,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
     </picture>
   </td>
-
   <td align="center" width="150">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="70"
@@ -54,7 +52,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
     </picture>
     </td>
-
   <td align="center" width="150">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="60"
@@ -63,7 +60,6 @@
       src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png">
     </picture>
     </td>
-
   </tr>
 </table>
 
@@ -95,10 +91,11 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+<h4>Click each icon to see each project with the tech</h4>
 <!-- <-- <p align="left"> -->
 
 <!-- <h4 align="left">Low Level:</h4> -->
-  <h3>Low Level</h3>
+<details><summary>Low Level</summary>
 
 ---
 
@@ -108,9 +105,10 @@
 
 ---
 
+</details>
+
 <details>
 <summary>Web Stuff</summary>
-<h4>Click each icon to see each project with the tech</h4>
 
 ---
 
