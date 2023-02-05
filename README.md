@@ -312,7 +312,7 @@
 <td>C++</td>
 <td>adsf</td>
 <td>e4we</td>
-<td>ef</td>
+<td>
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -332,6 +332,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+</td>
 
 </tr>
 <tr>
