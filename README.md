@@ -18,7 +18,6 @@
 -   📄 Know about my experiences [stuff](www.google.com)
 -   ⚡ Fun fact **I am really good at stuff, sometimes things too.**
     <!-- git add .; git commit -m "Minor formatting"; git push; -->
-    <!-- git add .; git commit -m "Minor formatting"; git push; -->
 
 <center>
 
