@@ -9,6 +9,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/cee95ec9-130e-4f66-8097-0123d00e7dfd.svg)](https://wakatime.com/@cee95ec9-130e-4f66-8097-0123d00e7dfd)
     
+<a href="https://wakatime.com/@cee95ec9-130e-4f66-8097-0123d00e7dfd"><img src="https://wakatime.com/badge/user/cee95ec9-130e-4f66-8097-0123d00e7dfd.svg" alt="Total time coded since Jan 28 2023" /></a>    
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daliborskocibusic&theme=onedark&margin-w=20&margin-h=20&row=1" alt="daliborskocibusic" />
 </center>
 <hr>
