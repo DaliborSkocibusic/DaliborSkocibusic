@@ -60,7 +60,8 @@
   <td align="center" width="150">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="60"
-      srcset="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png">
+<!--       srcset="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png"> -->
+      srcset="https://www.codewars.com/users/DaliborSkocibusic/badges/large"
       <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
       src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png">
     </picture>
